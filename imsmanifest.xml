@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST_5028be1b" version="1.2"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="org_default">
+    <organization identifier="org_default">
+      <title>Bài 12. Tổng các góc trong một tam giác</title>
+      <item identifier="item_1" identifierref="res_1">
+        <title>Bài 12. Tổng các góc trong một tam giác</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="res_1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="player.js"/>
+      <file href="player.css"/>
+      <file href="scorm_api.js"/>
+      <file href="data.json"/>
+      
+      <file href="audios/slide_1.mp3"/>
+      
+      <file href="audios/slide_2.mp3"/>
+      
+      <file href="audios/slide_3.mp3"/>
+      
+      <file href="audios/slide_4.mp3"/>
+      
+      <file href="audios/slide_5.mp3"/>
+      
+      <file href="audios/slide_6.mp3"/>
+      
+      <file href="audios/slide_7.mp3"/>
+      
+      <file href="audios/slide_8.mp3"/>
+      
+      <file href="audios/slide_9.mp3"/>
+      
+      <file href="audios/slide_10.mp3"/>
+      
+      <file href="audios/slide_11.mp3"/>
+      
+      <file href="audios/slide_12.mp3"/>
+      
+      <file href="audios/slide_13.mp3"/>
+      
+      <file href="audios/slide_14.mp3"/>
+      
+      <file href="audios/slide_15.mp3"/>
+      
+      <file href="audios/slide_16.mp3"/>
+      
+      <file href="audios/slide_17.mp3"/>
+      
+      <file href="audios/slide_18.mp3"/>
+      
+      <file href="audios/slide_19.mp3"/>
+      
+      <file href="audios/slide_20.mp3"/>
+      
+      <file href="audios/slide_21.mp3"/>
+      
+      <file href="audios/slide_22.mp3"/>
+      
+      <file href="audios/slide_23.mp3"/>
+      
+      <file href="audios/slide_24.mp3"/>
+      
+      <file href="audios/slide_25.mp3"/>
+      
+      <file href="audios/slide_26.mp3"/>
+      
+      <file href="audios/slide_27.mp3"/>
+      
+      <file href="audios/slide_28.mp3"/>
+      
+      <file href="images/slide_1.png"/>
+      
+      <file href="images/slide_2.png"/>
+      
+      <file href="images/slide_3.png"/>
+      
+      <file href="images/slide_4.png"/>
+      
+      <file href="images/slide_5.png"/>
+      
+      <file href="images/slide_6.png"/>
+      
+      <file href="images/slide_7.png"/>
+      
+      <file href="images/slide_8.png"/>
+      
+      <file href="images/slide_9.png"/>
+      
+      <file href="images/interaction_10.png"/>
+      
+      <file href="images/slide_11.png"/>
+      
+      <file href="images/slide_12.png"/>
+      
+      <file href="images/slide_13.png"/>
+      
+      <file href="images/slide_14.png"/>
+      
+      <file href="images/slide_15.png"/>
+      
+      <file href="images/slide_16.png"/>
+      
+      <file href="images/slide_17.png"/>
+      
+      <file href="images/slide_18.png"/>
+      
+      <file href="images/slide_19.png"/>
+      
+      <file href="images/slide_20.png"/>
+      
+      <file href="images/slide_21.png"/>
+      
+      <file href="images/slide_22.png"/>
+      
+      <file href="images/slide_23.png"/>
+      
+      <file href="images/slide_24.png"/>
+      
+      <file href="images/slide_25.png"/>
+      
+      <file href="images/slide_26.png"/>
+      
+      <file href="images/slide_27.png"/>
+      
+      <file href="images/slide_28.png"/>
+      
+    </resource>
+  </resources>
+</manifest>
